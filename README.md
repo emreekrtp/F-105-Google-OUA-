@@ -1,16 +1,21 @@
-# sevval1
+# F-105-Google-OUA
+Google Oyun ve Uygulama Akademisi F-105 Takımı 2023 Bootcamp Flutter Ekibi
 
-A new Flutter project.
+Lokman Eren Kadakal - Scrum Master, Product Owner
 
-## Getting Started
+Şevval Elmacı - Developer
 
-This project is a starting point for a Flutter application.
+İrem Duman - Developer
 
-A few resources to get you started if this is your first Flutter project:
+Emre Karatop - Developer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Booklet
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Sprint 
+
+Tahmini tamamlanması planlanan puan:
+  --60 puan--
+
+  1. ve 2. Sprint sürecindeki aktif olarak ilerlenmeyen toplantı süreçleri doğrultusunda puana karar verilmiştir.
+
+Daily Scrum: Daily Scrum toplantılarını ekibin saatlerinin uygun olmaması sebebiyle whatsapp üzerinden haberleşerek gerçekleştirdik.
